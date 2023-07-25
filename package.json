@@ -30,11 +30,11 @@
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^4.1.3",
     "typescript-ioc": "^3.0.2",
-    "@brandondunc/typescript-rest": "github:brandonduncan/typescript-rest#3.0.6"
+    "@emnify/typescript-rest": "github:emnify/typescript-rest#3.0.6"
   },
   "peerDependencies": {
     "typescript-ioc": "^3.0.2",
-    "@brandondunc/typescript-rest": "github:brandonduncan/typescript-rest#3.0.6"
+    "@emnify/typescript-rest": "github:emnify/typescript-rest#3.0.6"
   },
   "keywords": [
     "typescript-rest",
